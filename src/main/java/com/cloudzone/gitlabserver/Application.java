@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 /**
  * Gitlab Server Application Start Main
  *
- * @author rongzhihong@gome.com.cn
+ * @author tongqiangying@gmail.com
  * @since 2018/3/9
  */
 @EnableEurekaClient
